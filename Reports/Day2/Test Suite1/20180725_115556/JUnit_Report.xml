@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite1" time="2" tests="0" failures="1" errors="0">
+   <testsuite name="Test Suite1" tests="0" failures="1" errors="0" time="2" timestamp="2018-07-25 11:55:57" hostname="neha.mehla - WSLK1FFTRFW-06" id="Test Suites/Day2/Test Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\neha.mehla\\Katalon Studio\\Sample project\\Reports\\Day2\\Test Suite1\\20180725_115556"/>
+         <property name="logFiles" value="C:\\Users\\neha.mehla\\Katalon Studio\\Sample project\\Reports\\Day2\\Test Suite1\\20180725_115556\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="neha.mehla - WSLK1FFTRFW-06"/>
+         <property name="hostAddress" value="10.10.10.15"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Day2/test3" classname="Test Cases/Day2/test3" status="FAILED">
+         <failure type="FAILED" message="Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)"/>
+         <system-out><![CDATA[2018-07-25 11:55:57 - [TEST_CASE][FAILED] - Test Cases/Day2/test3: Test Cases/Day2/test3 FAILED because (of) Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-07-25 11:55:58 - [TEST_STEP][FAILED] - navigateToUrl: Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-07-25 11:55:58 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-07-25 11:55:58 - [MESSAGE][FAILED] - Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+         <system-err><![CDATA[2018-07-25 11:55:57 - [TEST_CASE][FAILED] - Test Cases/Day2/test3: Test Cases/Day2/test3 FAILED because (of) Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:55:57 - [TEST_SUITE][FAILED] - Test Suite1: Test Cases/Day2/test3 FAILED because (of) Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+      <system-err><![CDATA[2018-07-25 11:55:57 - [TEST_SUITE][FAILED] - Test Suite1: Test Cases/Day2/test3 FAILED because (of) Unable to navigate to 'https://opensource-demo.orangehrmlive.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-06', ip: '10.10.10.15', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+   </testsuite>
+</testsuites>

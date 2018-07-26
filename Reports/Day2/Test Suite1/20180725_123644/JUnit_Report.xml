@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite1" time="39" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite1" tests="1" failures="0" errors="0" time="39" timestamp="2018-07-25 12:36:45" hostname="neha.mehla - WSLK1FFTRFW-06" id="Test Suites/Day2/Test Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\neha.mehla\\Katalon Studio\\Sample project\\Reports\\Day2\\Test Suite1\\20180725_123644"/>
+         <property name="logFiles" value="C:\\Users\\neha.mehla\\Katalon Studio\\Sample project\\Reports\\Day2\\Test Suite1\\20180725_123644\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="neha.mehla - WSLK1FFTRFW-06"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 51.0"/>
+         <property name="hostAddress" value="10.10.10.15"/>
+         <property name="sessionId" value="b3e87a2d-f53f-497f-9e37-3237e3b59583"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day2/test3" classname="Test Cases/Day2/test3" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:36:45 - [TEST_CASE][PASSED] - Test Cases/Day2/test3: Test Cases/Day2/test3
+
+2018-07-25 12:36:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:37:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:37:15 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:37:20 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:37:20 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/test3/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:37:20 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/test3/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:37:20 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/test3/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:37:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/test3/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:37:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test3/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:37:23 - [MESSAGE][PASSED] - Object: 'Object Repository/test3/Page_OrangeHRM/input_Submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 12:36:45 - [TEST_SUITE][PASSED] - Test Suite1: Test Cases/Day2/test3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

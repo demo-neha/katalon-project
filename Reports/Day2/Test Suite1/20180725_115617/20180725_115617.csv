@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite1,,,2018-07-25 11:56:18,2018-07-25 11:56:21,3.021s,FAILED
+,,,,,,
+Test Cases/Day2/test3,,,2018-07-25 11:56:18,2018-07-25 11:56:21,2.712s,FAILED
+navigateToUrl,,,2018-07-25 11:56:19,2018-07-25 11:56:19,0.221s,FAILED
