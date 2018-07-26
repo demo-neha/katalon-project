@@ -53,6 +53,11 @@
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/org.beanshell.bsh_2.0.0.0b4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/org.apache.ant.launcher_1.9.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.kms.katalon.core.appium_1.0.0.201807120458.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.kms.katalon.core.webui_1.0.0.201807120458.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/configuration/resources/apidocs/com.kms.katalon.core.webui/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.kms.katalon.core.mobile_1.0.0.201807120458.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/configuration/resources/apidocs/com.kms.katalon.core.mobile/"/>
@@ -67,11 +72,6 @@
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/wsdl4j_1.6.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.google.oauth-client.google-oauth-client_1.22.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.google.http-client.google-http-client_1.22.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/plugins/com.kms.katalon.core.webui_1.0.0.201807120458.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="file:/C:/Users/neha.mehla/Downloads/Katalon_Studio_Windows_64-5.5/Katalon_Studio_Windows_64-5.5/configuration/resources/apidocs/com.kms.katalon.core.webui/"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
